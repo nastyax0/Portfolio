@@ -9,16 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-email/components": "^0.1.1",
+    "@react-email/render": "^1.1.3",
+    "email-templates": "^12.0.3",
+    "lucide-react": "^0.524.0",
+    "next": "15.3.4",
     "react": "^19.0.0",
+    "react-calendly": "^4.4.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.4"
+    "react-simple-typewriter": "^5.0.1",
+    "react-swiper": "^0.1.5",
+    "resend": "^4.6.0",
+    "swiper": "^11.2.9"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5"
   }
 }
