@@ -25,8 +25,8 @@ const projects = [
     title: "Professional Style",
     description:
       "“The site layout made it simple for my audience to find what they needed. Perfect for my work!”",
-    image: "/yccexmun.webp",
-    link: "https://www.yccexmun.in",
+    image: "/fruit.jpg",
+    link: "https://fruit-liart.vercel.app/",
   },
 ];
 
